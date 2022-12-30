@@ -2,7 +2,7 @@
 
 Seznam níže obsahuje programy, které jsou legálně zdarma a umím vám s nimi poradit.
 
-Tento seznam je dobré čas od času projít a podívat se, jestli nejsou nové verze.
+Tento seznam je dobré čas od času projít a podívat se, zda jsou dostupné nové verze (tzn. kliknout na odkazy a porovnat čísla verzí s tím, co mám nainstalováno).
 
 ## Libre Office
 
