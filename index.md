@@ -18,3 +18,9 @@ je možné mě urgovat, abych nějaký návod napsal přednostně :-)
 - Jak ukládat fotky z mobilu do PC
 - Jak pracovat s hesly
 - Jak na posílání fotek přes email
+
+---
+
+Pokud najdete chybu, můžete vytvořit _pull request_, nebo mi napsat na _adam(at)nehudek.cz_.
+
+[Zdrojový kód](https://github.com/nehudek/nehudek.github.io).
